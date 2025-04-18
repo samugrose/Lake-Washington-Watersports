@@ -1,0 +1,35 @@
+body {
+}
+
+ul {
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+ul li {
+    padding-top: 5px;
+    
+}
+
+ul li a {
+    color: black !important;
+}
+ul h2 {
+    
+    margin-right: 10%;
+    padding-top: 5px;
+    padding-left: 7px;
+}
+
+.mainBodyText {
+    padding-top: 50px;
+}
+
+.form-group {
+    width: 80% ;
+}
+
+.contactForm form {
+    width: 80%;
+    padding-top: 50px;
+}
