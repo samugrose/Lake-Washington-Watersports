@@ -38,3 +38,13 @@ ul h2 {
     width: 80%;
     padding-top: 50px;
 }
+
+footer {
+    width: 100% !important;
+    position: absolute !important;
+    bottom: 0px; left: 0 !important;
+}
+
+.btn {
+    outline-color: #D2B48C !important;
+}
