@@ -41,7 +41,7 @@ ul h2 {
 
 footer {
     width: 100% !important;
-    position: absolute !important;
+    position: fixed !important;
     bottom: 0px; left: 0 !important;
 }
 
